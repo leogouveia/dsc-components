@@ -1,0 +1,20 @@
+{
+  "name": "dsc-components",
+  "version": "1.1.0",
+  "peerDependencies": {
+    "@angular/core": "^8.2.14 || ^9.2.4 || ^10.2.7 || ^11.2.13 || ^12.2.13",
+    "@angular/material": "^8.2.3 || ^9.2.4 || ^10.2.7 || ^11.2.13 || ^12.2.13"
+  },
+  "dependencies": {
+    "inputmask": "^5.0.7",
+    "tslib": "^2.2.0"
+  },
+  "main": "bundles/dsc-components.umd.js",
+  "module": "fesm2015/dsc-components.js",
+  "es2015": "fesm2015/dsc-components.js",
+  "esm2015": "esm2015/dsc-components.js",
+  "fesm2015": "fesm2015/dsc-components.js",
+  "typings": "dsc-components.d.ts",
+  "metadata": "dsc-components.metadata.json",
+  "sideEffects": false
+}
